@@ -4,7 +4,10 @@
     "email": "n.r0225@gmail.com"
   },
   "records": {
-    "URL": "https://github.com/nr0225",
+    "A": [
+      "162.159.143.30",
+      "172.66.3.26"
+    ],
     "MX": [
       {
         "target": "mx01.mail.icloud.com",
